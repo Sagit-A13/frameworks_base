@@ -236,4 +236,8 @@
 
     <!-- Location indicator -->
   <java-symbol type="drawable" name="stat_sys_location" />
+
+    <!-- Button backlight -->
+    <java-symbol type="integer" name="config_deviceSupportsButtonBrightnessControl" />
+    <java-symbol type="dimen" name="config_buttonBrightnessSettingDefaultFloat" />
 </resources>
